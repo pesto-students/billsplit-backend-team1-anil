@@ -1,5 +1,6 @@
-# [BillSplit](https://billsplit-finance.netlify.app/)
-<br/>
+
+<a  href="https://billsplit-finance.netlify.app/" ><img src="https://github.com/billsplit-finance/frontend/blob/main/src/Img/while_black.png" width="200px"></a>
+
 # Table of Contents
 
 1. [Description](#description)
