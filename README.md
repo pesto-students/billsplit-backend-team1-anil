@@ -1,21 +1,21 @@
 
 <a  href="https://billsplit-finance.netlify.app/" ><img src="https://github.com/billsplit-finance/frontend/blob/main/src/Img/while_black.png" width="200px"></a>
 
-# Table of Contents
-
-1. [Description](#description)
-2. [Demo](#demo)
-3. [Installation](#installation)
-4. [Technology Stack](#technology-stack)
-5. [Authors](#authors)
-
-<br/>
-
-# Description
+# Bill-Split
 <br/>
 There are a lot of scenarios where you have shared expenses with your friends, colleagues, and roommates. But there is always a hassle to calculate what you paid, owed by whom and what amount needs to be pay to whom.
 <br/>
 Here comes BillSplit in the picture to solve all the problems related to sharing your expenses with your friends and family. Calculate and settle in one Go.
+<br/>
+
+# Table of Contents
+
+1. [Demo](#demo)
+2. [Installation](#installation)
+3. [Technology Stack](#technology-stack)
+4. [Authors](#authors)
+5. [License](#license)
+
 <br/>
 
 # Demo
@@ -75,6 +75,6 @@ We attempted to employ an entirely contemporary tech stack while experimenting w
 
 <br/>
 
-# Licence
+# License
 
 Distributed under the MIT License.
